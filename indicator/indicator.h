@@ -7,7 +7,7 @@
 
 #ifndef INDICATOR_INDICATOR_H_
 #define INDICATOR_INDICATOR_H_
-#include "system.h"
+#include "../system.h"
 struct _indicator
 {
 		int8_t sm0;

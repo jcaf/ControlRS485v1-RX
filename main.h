@@ -8,6 +8,8 @@
 #ifndef MAIN_H_
 #define MAIN_H_
 
+#include "system.h"
+#include "types.h"
 
 	struct _mainflag
 	{

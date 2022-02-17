@@ -1,6 +1,8 @@
 #ifndef ADC_H_
 #define ADC_H_
 
+	#include "../main.h"
+
     #define ADC_MODE_SINGLE_END 	-1
     #define ADC_MODE_AUTOTRIGGER_FREE_RUNNING 			0x00
     #define ADC_MODE_AUTOTRIGGER_ANALOG_COMPARATOR 		0x01

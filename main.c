@@ -9,12 +9,12 @@
  *
  */
 
-#include "system.h"
 #include "main.h"
-#include "types.h"
 #include "serial/serial.h"
 #include "usart/usart.h"
 #include "adc/adc.h"
+#include "system.h"
+#include "types.h"
 
 volatile struct _isr_flag
 {

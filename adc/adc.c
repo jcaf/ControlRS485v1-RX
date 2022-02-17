@@ -1,5 +1,5 @@
-#include "system.h"
 #include "adc.h"
+#include "../system.h"
 
 /*
 - 13 - 260μs Conversion Time

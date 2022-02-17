@@ -7,7 +7,7 @@
 #include "usart.h"
 
 #include "../serial/serial.h"
-#include "system.h"
+#include "../system.h"
 
 void USART_Init( unsigned int ubrr)
 {
